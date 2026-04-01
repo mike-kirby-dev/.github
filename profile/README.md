@@ -93,8 +93,22 @@ Most of what I build lives behind the scenes. Automations that run while you sle
 <summary><b>🛠️ Languages & Tools</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,nodejs,ts,js,py,docker,tailwind,postgres,postman,git,github&perline=12)](https://skillicons.dev)
-
+My go to tech stack choices
+<br>
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,nodejs,docker,cloudflare,tailwind,pinia,vite,express,fastapi,postgres,mongodb,redis)](https://skillicons.dev)
+<br>
+<br>
+Tools I use to make the magic happen
+<br>
+[![My Skills](https://skillicons.dev/icons?i=ai,postman,git,ubuntu,windows,vscode,github&perline=12)](https://skillicons.dev)
+<br>
+<br>
+Other things I dabble with
+<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,py,ts,raspberrypi&perline=12)](https://skillicons.dev)
+<br>
+<br>
+<br>
 Plus some tools that don't have skill icons yet:
 
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0d9488?style=flat-square&logoColor=white)
