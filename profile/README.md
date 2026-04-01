@@ -126,5 +126,12 @@ Plus some tools that don't have skill icons yet:
 I also own a PT academy and I'm helping launch a wellness centre, so I spend half my time in the same trenches as the people I build for. I'm not sat in a home office theorising about what businesses need. I'm running them.
 
 </details>
+
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=_custom_gradient=0:EEFF00,100:14b8a6&text=Built%20with%20caffeine%20and%20an%20unreasonable%20number%20of%20workflow%20automations&section=footer&reversal=false&textBg=false&fontSize=16&fontAlignY=80&fontColor=FFFFFF" width="100%" alt="Built with caffeine and an unreasonable number of workflow automations" />
+<br>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mike-kirby-dev&style=for-the-badge&color=14b8a6&label=Profile+views" alt="Profile views" />
+
+</div>
