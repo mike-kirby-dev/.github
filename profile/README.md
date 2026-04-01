@@ -1,5 +1,5 @@
 <a href="https://mike-kirby.com/#about?utm_source=github&utm_medium=header-svg&utm_campaign=github-personal-profile&utm_content=readme">
-  <img src="./assets/github-header.svg" width="100%" alt="Mike Kirby - Developer & Automator" />
+  <img src="https://raw.githubusercontent.com/mike-kirby-dev/.github/main/profile/assets/github-header.svg" width="100%" alt="Mike Kirby - Developer & Automator" />
 </a>
 
 <!-- TYPING SVG -->
@@ -39,14 +39,14 @@ Most of what I build lives behind the scenes. Automations that run while you sle
 <tr>
 <td width="50%" align="center">
 <br>
-<img src="./assets/card-ampware.svg" width="100%" alt="Ampware.io" />
+<img src="https://raw.githubusercontent.com/mike-kirby-dev/.github/main/profile/assets/card-ampware.svg" width="100%" alt="Ampware.io" />
 <br>
 <a href="https://ampware.io?utm_source=github&utm_medium=readme&utm_campaign=github-profile">Browse Ampware.io →</a>
 <br><br>
 </td>
 <td width="50%" align="center">
 <br>
-<img src="./assets/card-workflow-experts.svg" width="100%" alt="Workflow Experts" />
+<img src="https://raw.githubusercontent.com/mike-kirby-dev/.github/main/profile/assets/card-workflow-experts.svg" width="100%" alt="Workflow Experts" />
 <br>
 <a href="https://workflow-experts.com?utm_source=github&utm_medium=readme&utm_campaign=github-profile">Visit Workflow Experts →</a>
 <br><br>
@@ -55,7 +55,7 @@ Most of what I build lives behind the scenes. Automations that run while you sle
 <tr>
 <td colspan="2" align="center">
 <br>
-<img src="./assets/card-toolkit.svg" width="100%" alt="Claude Marketing Toolkit" />
+<img src="https://raw.githubusercontent.com/mike-kirby-dev/.github/main/profile/assets/card-toolkit.svg" width="100%" alt="Claude Marketing Toolkit" />
 <br>
 <a href="https://github.com/Workflow-Experts/claude-marketing-toolkit">View on GitHub →</a>
 <br><br>
@@ -71,17 +71,17 @@ Most of what I build lives behind the scenes. Automations that run while you sle
 <tr>
 <td width="33%" align="center">
 <a href="https://github.com/Workflow-Experts/claude-marketing-toolkit">
-<img src="./assets/link-toolkit.svg" width="100%" alt="Claude Marketing Toolkit" />
+<img src="https://raw.githubusercontent.com/mike-kirby-dev/.github/main/profile/assets/link-toolkit.svg" width="100%" alt="Claude Marketing Toolkit" />
 </a>
 </td>
 <td width="33%" align="center">
 <a href="https://linkedin.com/in/mike-kirby-dev">
-<img src="./assets/link-linkedin.svg" width="100%" alt="Connect on LinkedIn" />
+<img src="https://raw.githubusercontent.com/mike-kirby-dev/.github/main/profile/assets/link-linkedin.svg" width="100%" alt="Connect on LinkedIn" />
 </a>
 </td>
 <td width="33%" align="center">
 <a href="#">
-<img src="./assets/link-postman.svg" width="100%" alt="GHL API Collection" />
+<img src="https://raw.githubusercontent.com/mike-kirby-dev/.github/main/profile/assets/link-postman.svg" width="100%" alt="GHL API Collection" />
 </a>
 </td>
 </tr>
